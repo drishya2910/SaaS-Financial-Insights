@@ -5,4 +5,3 @@ An executive-level profitability dashboard built in Power BI to monitor:
 - Industry and region-level profit contribution
 - Customer-level profit concentration
 - Real-time risk alerts for loss-making scenarios
-
