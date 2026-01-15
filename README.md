@@ -80,3 +80,6 @@ Profit and margin impact by discount strategy
 Industry and region-level profit contribution
 Customer-level profit concentration
 Real-time risk alerts for loss-making scenarios
+
+<img width="1807" height="756" alt="image" src="https://github.com/user-attachments/assets/a45d1ac6-3eb6-4718-9a12-7596013443e0" />
+
