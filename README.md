@@ -73,3 +73,10 @@ Implement transaction-level monitoring to flag high-risk discounts in real time
 
 Outcome
 This project delivers a data-backed pricing policy, a clear definition of the ideal customer profile, and a framework for profit-first decision-making in SaaS operations.
+
+An executive-level profitability dashboard built in Power BI to monitor:
+
+Profit and margin impact by discount strategy
+Industry and region-level profit contribution
+Customer-level profit concentration
+Real-time risk alerts for loss-making scenarios
